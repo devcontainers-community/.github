@@ -24,8 +24,8 @@ Here's some specific examples of things that are in scope for this organization:
   [@devcontainers] does not cover
 - Onboarding existing trusted community members who have maintained devcontainer
   features, images, or templates
-- Highlighting good community-authored documentation articles through an awesome
-  list
+- ~~Highlighting good community-authored documentation articles through an
+  awesome list~~ _maybe at a later date_
 
 Besides these core goals, there's some other important things that are
 deliberatly omitted from the scope, and are better tackled elsewhere:
