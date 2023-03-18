@@ -20,10 +20,10 @@ Discussion and let's chat! If you just want to add a new feature, check out our
 
 Here's some specific examples of things that are in scope for this organization:
 
-- Maintaining popular language features, images, and templates that
-  [@devcontainers] does not cover
+- Maintaining popular language features, ~~images~~ _maybe later_, and templates
+  that [@devcontainers] does not cover
 - Onboarding existing trusted community members who have maintained devcontainer
-  features, images, or templates
+  features, ~~images~~ _maybe later_, or templates
 - ~~Highlighting good community-authored documentation, features, images,
   templates, and other content through an awesome list~~ _maybe at a later date_
 
