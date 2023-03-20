@@ -1,7 +1,7 @@
 The [@devcontainers-community]'s mission is to be a **centralized source** for
 **well-maintained** features that are of **high-quality** similar to those of
-the official [@devcontainers] organization, but for more **popular tools and
-languages**.
+the official [@devcontainers] organization, but for **additional popular tools
+and languages**.
 
 We want to avoid atrophy by investing into the _community-based_ approach to
 maintenance that has been successful in other communtiy orgainzations like
