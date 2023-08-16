@@ -32,6 +32,7 @@ Also check out these other cool Dev Container collections and organizations:
 - [devcontainers/images](https://github.com/devcontainers/images)
 - [rocker-org/devcontainer-features](https://github.com/rocker-org/devcontainer-features)
 - [dev-wasm/dev-wasm-feature](https://github.com/dev-wasm/dev-wasm-feature)
+- [devcontainers-contrib/features](https://github.com/devcontainers-contrib/features)
 
 [@devcontainers-community]: https://github.com/devcontainers-coommunity
 [devcontainers/features]: https://github.com/devcontainers/features
