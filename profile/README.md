@@ -23,5 +23,8 @@ a template that you want to share? Add it here!
   </a>
 </p>
 
+<sup>If you're a dev who likes containers we're actively looking for new
+members!</sup>
+
 [@devcontainers-community]: https://github.com/devcontainers-coommunity
 [devcontainers/features]: https://github.com/devcontainers/features
