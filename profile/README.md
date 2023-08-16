@@ -25,5 +25,13 @@ a template that you want to share? Add it here!
   <sub>If you're a dev who likes containers we're actively looking for new members!</sub>
 </p>
 
+Also check out these other cool Dev Container collections and organizations:
+
+- [containers.dev/features](https://containers.dev/features)
+- [devcontainers/features](https://github.com/devcontainers/features)
+- [devcontainers/images](https://github.com/devcontainers/images)
+- [rocker-org/devcontainer-features](https://github.com/rocker-org/devcontainer-features)
+- [dev-wasm/dev-wasm-feature](https://github.com/dev-wasm/dev-wasm-feature)
+
 [@devcontainers-community]: https://github.com/devcontainers-coommunity
 [devcontainers/features]: https://github.com/devcontainers/features
