@@ -21,10 +21,9 @@ a template that you want to share? Add it here!
   <a href="https://github.com/orgs/devcontainers-community/discussions/new?category=general">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=%F0%9F%A4%9D+Join+the+org&color=222222&label=">
   </a>
+  <br>
+  <sub>If you're a dev who likes containers we're actively looking for new members!</sub>
 </p>
-
-<sup>If you're a dev who likes containers we're actively looking for new
-members!</sup>
 
 [@devcontainers-community]: https://github.com/devcontainers-coommunity
 [devcontainers/features]: https://github.com/devcontainers/features
