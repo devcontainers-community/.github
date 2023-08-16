@@ -1,3 +1,17 @@
+<p align=center>
+  <a href="https://github.com/devcontainers-community/features/discussions/new?category=ideas">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=%E2%9E%95%20Add%20a%20feature&color=0ABF53&label=">
+  </a>
+  &nbsp;
+  <a href="https://github.com/devcontainers-community/templates/discussions/new?category=ideas">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=%E2%9E%95%20Add%20a%20template&color=CB3837&label=">
+  </a>
+  &nbsp;
+  <a href="https://github.com/devcontainers-community/images/discussions/new?category=ideas">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=%E2%9E%95%20Add%20an%20image&color=2496ED&label=">
+  </a>
+</p>
+
 The [@devcontainers-community]'s mission is to be a **centralized source** for
 **well-maintained** features that are of **high-quality** similar to those of
 the official [@devcontainers] organization, but for **additional popular tools
@@ -20,12 +34,12 @@ Discussion and let's chat! If you just want to add a new feature, check out our
 
 Here's some specific examples of things that are in scope for this organization:
 
-- Maintaining popular language features, ~~images~~ _maybe later_, and templates
-  that [@devcontainers] does not cover
+- Maintaining popular language features, images, and templates that
+  [@devcontainers] does not cover
 - Onboarding existing trusted community members who have maintained devcontainer
-  features, ~~images~~ _maybe later_, or templates
-- ~~Highlighting good community-authored documentation, features, images,
-  templates, and other content through an awesome list~~ _maybe at a later date_
+  features, images, or templates
+- Highlighting good community-authored documentation, features, images,
+  templates, and other content through an awesome list
 
 Besides these core goals, there's some other important things that are
 deliberatly omitted from the scope, and are better tackled elsewhere:
@@ -37,7 +51,7 @@ deliberatly omitted from the scope, and are better tackled elsewhere:
 - Maintaining custom versions of existing officially provided
   awesome-tool/devcontainer-thing projects from other organizations like
   [rocker-org/devcontainer-features]. They've graciously taken on the
-  maintenance burden themselves, and we don't want to splinter the community. ❤️
+  maintenance burden themselves and we don't want to splinter the community. ❤️
 
 <!-- prettier-ignore-start -->
 [@devcontainers-community]: https://github.com/devcontainers-community
