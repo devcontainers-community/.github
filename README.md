@@ -13,18 +13,18 @@
 </p>
 
 The [@devcontainers-community]'s mission is to be a **centralized source** for
-**well-maintained** features that are of **high-quality** similar to those of
-the official [@devcontainers] organization, but for **additional popular tools
-and languages**.
+**community-maintained** features, templates, images, etc. that are of
+**high-quality** similar to those of the official [@devcontainers] organization,
+but for **additional popular tools, languages, environments, etc.**.
 
 We want to avoid atrophy by investing into the _community-based_ approach to
 maintenance that has been successful in other communtiy orgainzations like
 [@asdf-community]. This means making it as easy as possible to contribute. 🤝
 
 This is, however, a _fallback option_ for languages and tools that do not have
-official awesome-tool/devcontainer-features or related repositories to
-self-maintain within that community. If you are an individual who is part of a
-popular tool, consider [authoring your own feature repository]! ❤️
+official awesome-tool/my-feature or related repositories to self-maintain within
+that community. If you are an individual who is part of a popular tool, consider
+[authoring your own feature repository]! ❤️
 
 If you're interested in joining this organization, that's awesome! 🤩 Open a
 Discussion and let's chat! If you just want to add a new feature, check out our
@@ -50,8 +50,7 @@ deliberatly omitted from the scope, and are better tackled elsewhere:
   can improve the official product, that's better than a community fork!
 - Maintaining custom versions of existing officially provided
   awesome-tool/devcontainer-thing projects from other organizations like
-  [rocker-org/devcontainer-features]. They've graciously taken on the
-  maintenance burden themselves and we don't want to splinter the community. ❤️
+  [rocker-org/devcontainer-features]. ❤️
 
 <!-- prettier-ignore-start -->
 [@devcontainers-community]: https://github.com/devcontainers-community
