@@ -27,8 +27,8 @@ official awesome-tool/my-feature or related repositories to self-maintain within
 that community. If you are an individual who is part of a popular tool, consider
 [authoring your own feature repository]! ❤️
 
-If you're interested in joining this organization, that's awesome! 🤩 Open a
-Discussion and let's chat!
+If you're interested in joining this organization, that's awesome! 🤩 We love
+new members and new ideas!
 
 ## Scope
 
