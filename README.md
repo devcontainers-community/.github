@@ -13,9 +13,10 @@
 </p>
 
 The [@devcontainers-community]'s mission is to be a **centralized source** for
-**community-maintained** features, templates, images, etc. that are of
-**high-quality** similar to those of the official [@devcontainers] organization,
-but for **additional popular tools, languages, environments, etc.**
+**community-maintained** features, templates, images, GitHub Actions etc. that
+are of **high-quality** similar to those of the official [@devcontainers]
+organization, but for **additional popular tools, languages, environments,
+etc.**
 
 We want to avoid atrophy by investing into the _community-based_ approach to
 maintenance that has been successful in other communtiy orgainzations like
@@ -27,8 +28,7 @@ that community. If you are an individual who is part of a popular tool, consider
 [authoring your own feature repository]! ❤️
 
 If you're interested in joining this organization, that's awesome! 🤩 Open a
-Discussion and let's chat! If you just want to add a new feature, check out our
-[feature contribution guide]! 🌟
+Discussion and let's chat!
 
 ## Scope
 
