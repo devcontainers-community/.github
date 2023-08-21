@@ -35,17 +35,17 @@ Discussion and let's chat! If you just want to add a new feature, check out our
 Here's some specific examples of things that are in scope for this organization:
 
 - Maintaining popular language features, images, and templates that
-  [@devcontainers] does not cover
-- Onboarding existing trusted community members who have maintained devcontainer
-  features, images, or templates
+  [@devcontainers] does not cover.
+- Adding existing community members who have are interested in or maintain Dev
+  Container things.
 - Highlighting good community-authored documentation, features, images,
-  templates, and other content through an awesome list
+  templates, and other content through an awesome list.
 
 Besides these core goals, there's some other important things that are
 deliberatly omitted from the scope, and are better tackled elsewhere:
 
-- Writing or maintaining devcontainer-related documentation. This is best done
-  by individuals, but can be highlighted in an awesome list.
+- Writing or maintaining Dev Container-related documentation. This is best done
+  by individuals, but can be highlighted in an [awesome list].
 - Maintaining forked versions of the official [@devcontainers] projects. If you
   can improve the official product, that's better than a community fork!
 - Maintaining custom versions of existing officially provided
@@ -59,4 +59,5 @@ deliberatly omitted from the scope, and are better tackled elsewhere:
 [rocker-org/devcontainer-features]: https://github.com/rocker-org/devcontainer-features#readme
 [feature contribution guide]: https://github.com/devcontainers-community/features/blob/main/CONTRIBUTING.md
 [authoring your own feature repository]: https://github.com/devcontainers/feature-starter#readme
+[awesome list]: https://awesome.re/
 <!-- prettier-ignore-end -->
